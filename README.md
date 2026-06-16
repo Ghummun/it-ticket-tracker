@@ -21,7 +21,9 @@ Built as part of my IT helpdesk portfolio to demonstrate practical scripting, da
 ## Screenshots
 
 ![App Menu](01-app-menu.png)
-![Ticket List](03-ticket-list-multiple.png)
+![Ticket List](02-ticket-list.png)
+![Multiple Tickets](03-ticket-list-multiple.png)
+![Ticket Closed](04-ticket-closed.png)
 ![Stats Dashboard](05-stats-dashboard.png)
 
 ---
