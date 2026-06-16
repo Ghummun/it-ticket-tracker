@@ -38,6 +38,8 @@ Running `ticket_tracker.py` opens the main menu with all available commands. On 
 
 Selecting option 1 walks through creating a new ticket — title, description, priority, category, and assignment. Each ticket gets a unique auto-generated ID (e.g. `TKT-DPYCA`) and is timestamped on creation.
 
+![First Ticket](02-ticket-list.png)
+
 ### 3. Viewing the ticket queue
 
 Option 2 lists all tickets in a formatted table showing ID, status, priority, category, assigned technician, and title — the same information you'd see in the queue view of any real ticketing system.
